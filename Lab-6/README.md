@@ -1,4 +1,4 @@
-# Lab-6: AutoAI + DevOps
+# Lab-6: AutoAI  
 
 ## Introduction: 
 
