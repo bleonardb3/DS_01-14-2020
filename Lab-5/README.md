@@ -1,7 +1,7 @@
 # Lab-5: Machine Learning using SparkML
 
 ## Introduction:
-In this lab, you will use SparkML in Watson Studio to run generated travel data through a machine learning algorithm, automatically tune the algorithm, and load the data into a DB2 Warehouse database.
+In this lab, you will use SparkML in Watson Studio to run generated travel data through a machine learning algorithm, automatically tune the algorithm, and save the model into the project repository. 
 
 ## Objectives:
 Upon completing the lab, you will know how to:
