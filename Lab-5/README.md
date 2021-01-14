@@ -6,15 +6,16 @@ In this lab, you will use SparkML in Watson Studio to run generated travel data 
 ## Objectives:
 Upon completing the lab, you will know how to:
 
-1. Connect to a database and read data used for machine learning.
-2. Identify labels and transform data.
-3. Conduct feature engineering for algorithm data.
-4. Declare a machine learning model.
-5. Setup the Pipeline for data transforms and training.
-6. Train the data.
-7. Show and evaluate machine learning results.
-8. Automatically tune machine learning results.
-9. Score data and load  into a new DB2 table. 
+1. Create a projec token.
+1. Join data from three sources.
+1. Identify labels and transform data.
+1. Conduct feature engineering for algorithm data.
+1. Declare a machine learning model.
+1. Setup the Pipeline for data transforms and training.
+1. Train the data.
+1. Show and evaluate machine learning results.
+1. Automatically tune machine learning results.
+1. Save the model to the model repository
 
 ## Instructions:
 
