@@ -2,7 +2,7 @@
 
 ## Introduction: 
 
-This lab consists of two parts. The first part will demonstrate the exciting AutoAI capability to build and deploy an optimized model based on the Female Human Trafficking data set. The second part will deploy a web application using the IBM Cloud DevOps toolchain that will invoke the deployed model to predict the trafficking risk of a passenger. 
+This lab will demonstrate the exciting AutoAI capability to build and deploy an optimized model based on the Female Human Trafficking data set.  
 
 ## Objectives: 
 
