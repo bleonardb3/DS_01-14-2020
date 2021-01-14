@@ -11,7 +11,7 @@ Upon completing the lab, you will:
 1. Become familiar with the AutoAI capability
 2. Automate the building of a machine learning model 
 3. Save and deploy the model
-4. Deploy a simple web front-end application and connect it to the deployed model using an IBM Cloud toolchain. 
+4. Test the model  
 
 ## Instructions:
 
