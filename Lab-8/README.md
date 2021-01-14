@@ -10,4 +10,4 @@ The objectives of this lab is to become familar with the Decision Optimization M
 
 ### Step 1.  Please click on the link below to download the instructions to your machine.
 
-[Instructions](https://github.com/bleonardb3/DS_POT_01-14-2021/raw/main/Lab-8/HouseConstructionv1.0.pdf).
+[Instructions](https://github.com/bleonardb3/DS_POT_01-14-2021/raw/main/Lab-8/House%20Constructionv1.0.pdf).
