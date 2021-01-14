@@ -13,6 +13,7 @@ Upon completing the lab, you will:
 1. Create a Watson Machine Learning service instance and associate it with the project
 1. Add a collaborator to the project 
 1. Research topics by searching the Gallery
+1. Setup Watson OpenScale environment for later lab
 
 ## Instructions:
 
