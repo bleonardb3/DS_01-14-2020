@@ -27,4 +27,4 @@ The labs in this workshop will illustrate the myriad features included in Watson
 
 1. [Lab-9](Lab-9) - This lab will fulfill the prerequisites for Labs 3,4, and 5, if Lab-2 is not completed successfully. 
 
-1. [Lab-10](Lab-9a) - This lab is a replacement for Lab-5 if Lab-2 is not completed successfully
+1. [Lab-9a](Lab-9a) - This lab is a replacement for Lab-5 if Lab-2 is not completed successfully
