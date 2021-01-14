@@ -14,7 +14,7 @@ IBM Watson OpenScale is an open platform that helps remove barriers to enterpris
 ## Objectives   
 The goal of this lab is to familiarize the user with the features of Watson OpenScale. Upon completing this lab, you will understand how to:     
 
-1.	Provision Watson OpenScale
+1.	Access Watson OpenScale
 1.	View Fairness and Quality Metrics 
 1.	View Drift Metrics.
 1.	Explain a Transaction. 
